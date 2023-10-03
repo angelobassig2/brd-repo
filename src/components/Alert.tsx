@@ -69,6 +69,7 @@ function Alert({ value }: { value: string }) {
     }
   };
 
+  // fgjgfjfg
   //   const fetchImageAndData = async () => {
   //     try {
   //       await fetchImage();
